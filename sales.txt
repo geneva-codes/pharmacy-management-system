@@ -1,0 +1,7 @@
+Paracetamol 5 10 50
+1 Paracetamol 10 50
+1 Paracetamol 5 25
+1 Paracetamol 10 50
+2 Paracetamol 2 10
+2 Symdex 2 14
+2 Neozip 4 32
