@@ -1,4 +1,7 @@
 # Pharmacy Management System
+## System Preview
+
+![System Preview](system-preview.png)
 
 A C++ console-based Pharmacy Management System with POS and inventory tracking.
 
